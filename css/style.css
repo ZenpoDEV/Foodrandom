@@ -436,17 +436,3 @@ color: #999;
 #footer a:hover {
 	color: #eee;
 }
-@font-face {
-	font-family: 'MyWebFont';
-	src: url('../fonts/fonts/thsarabunnew_bold-webfont.woff'); /* IE9 Compat Modes */
-  }
-.textTH {
-	font-family: 'MyWebFont', Fallback, sans-serif;
-}
-.paragh {
-	width: 400px;
-	font-size: 15px;
-	letter-spacing: 0.5px;
-	text-indent: 50px;
-	word-break: break-word;  
-}
